@@ -3,7 +3,7 @@
 
 ![iptables](./images/iptables-logo.png)
 
-Just fill in the rules files in the RULES directory:
+Just fill in the rules files in the `RULES` directory:
 - Input;
 - Output;
 - Forward;
